@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Trap of Love ～蘭 ver.～",
+  "base_artist": "すなお",
+  "createdAt": "2026-01-05T05:10:05.085934Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Trap of Love ～蘭ソロ Ver.～",
+      "artist": "すなお from STAR☆ANIS",
+      "has_synced": false,
+      "path": "select/01_Trap_of_Love_~蘭ソロ_Ver.~_すなお_from_STAR☆ANIS.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Trap of Love (feat. Maiah Wynne)",
+      "artist": "Dreadlight, Maiah Wynne",
+      "has_synced": false,
+      "path": "select/02_Trap_of_Love_(feat._Maiah_Wynne)_Dreadlight,_Maiah_Wynne.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Trap of Love",
+      "artist": "Dreadlight",
+      "has_synced": false,
+      "path": "select/03_Trap_of_Love_Dreadlight.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Trap of Love",
+      "artist": "すなお・わか・ふうり from STAR☆ANIS",
+      "has_synced": true,
+      "path": "select/04_Trap_of_Love_すなお・わか・ふうり_from_STAR☆ANIS.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Trap Of Love (feat. The Hex Girls",
+      "artist": "Jay Sagi",
+      "has_synced": true,
+      "path": "select/05_Trap_Of_Love_(feat._The_Hex_Girls_Jay_Sagi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Trap Of Love",
+      "artist": "Jay Sagi, The Hex Girls, Crush",
+      "has_synced": true,
+      "path": "select/06_Trap_Of_Love_Jay_Sagi,_The_Hex_Girls,_Crush.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Trap of Love ～ヒカリソロ Ver.～",
+      "artist": "ゆにこ",
+      "has_synced": false,
+      "path": "select/07_Trap_of_Love_~ヒカリソロ_Ver.~_ゆにこ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Trap of Love ～蘭 ver.～",
+      "artist": "すなお",
+      "has_synced": false,
+      "path": "select/pl_01_Trap_of_Love_~蘭_ver.~_すなお.txt"
+    }
+  ]
+}
